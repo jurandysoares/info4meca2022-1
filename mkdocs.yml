@@ -1,0 +1,6 @@
+site_name: Informática para Mecatrônica 2022.1
+site_author: Jurandy Soares & Turma
+
+theme:
+  name: material
+  language: pt
